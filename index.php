@@ -33,7 +33,7 @@
 		<div class="ui-body ui-body-b">
 		
 		<div style="text-align: center;">
-		<h2>SELAMAT DATANG</h2>
+		<h2>WELCOME</h2>
 		<img src="images/capture.png" alt="Logo" />
 		
 		</div>
